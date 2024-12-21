@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"ee295344e0aac6c0","type":"group","x":740,"y":1066,"width":1725,"height":2357,"label":"Antegrade Nailing"},
+		{"id":"6cb4e56466c18e13","type":"group","x":1300,"y":2400,"width":920,"height":168,"label":"Distal Locking"},
+		{"id":"e80cdcb39ecaa08c","type":"text","text":"More complicated fractures require open reduction. Can robosis handle this?","x":2060,"y":1583,"width":385,"height":101,"color":"1"},
+		{"id":"60a117d79d88b2d2","type":"file","file":"Surgeries/Short Nail/Aftercare.md","x":1560,"y":3320,"width":400,"height":83},
+		{"id":"5d2bec8db51b6729","type":"file","file":"Surgeries/Short Nail/3.  Primary Nail Insertion.md","x":1560,"y":1740,"width":400,"height":140},
+		{"id":"401f2154fedb3b50","type":"file","file":"Surgeries/Short Nail/2. Reduction.md","x":1560,"y":1583,"width":400,"height":83},
+		{"id":"ff252f9a5c6d9e56","type":"file","file":"Surgeries/Short Nail/Short Nail Indications.md","x":1800,"y":1086,"width":400,"height":160,"color":"5"},
+		{"id":"a08e53af5574d4ff","type":"file","file":"Surgeries/Short Nail/4B. Blade Insertion.md","x":1800,"y":1974,"width":400,"height":83},
+		{"id":"ac644b009aae7f8e","type":"file","file":"Surgeries/Short Nail/1. Positioning.md","x":1560,"y":1380,"width":400,"height":143},
+		{"id":"2cb568819bc293f0","type":"file","file":"Surgeries/Short Nail/End Cap (Optional).md","x":2040,"y":2800,"width":400,"height":160},
+		{"id":"cc13bdf1f9705a7c","type":"file","file":"Surgeries/Short Nail/Final Assessment.md","x":1560,"y":3120,"width":400,"height":83},
+		{"id":"100031e93ee0dbcb","type":"file","file":"Surgeries/Short Nail/Distal Locking Short, ES.md","x":1800,"y":2428,"width":400,"height":120,"color":"#146fe6"},
+		{"id":"c9cf91d0187697e6","type":"file","file":"Surgeries/Short Nail/4A. Lag Screw Insertion.md","x":1320,"y":1974,"width":400,"height":83},
+		{"id":"cfc6d91bc822f077","type":"file","file":"Surgeries/Long Nail/Long Nail Indications.md","x":1320,"y":1086,"width":400,"height":134,"color":"2"},
+		{"id":"b0b4fdbc82e9d871","type":"file","file":"Surgeries/Long Nail/Additional Lag Screw (Optional).md","x":820,"y":2120,"width":400,"height":178,"color":"2"},
+		{"id":"e6dc28039ac37af6","type":"file","file":"Surgeries/Long Nail/Distal Locking Long.md","x":1320,"y":2420,"width":400,"height":125,"color":"2"},
+		{"id":"21ecc28a0aae46ee","type":"file","file":"Images/Nail-Differences.png","x":760,"y":2661,"width":600,"height":742}
+	],
+	"edges":[
+		{"id":"9d86583a03b9b9b7","fromNode":"ac644b009aae7f8e","fromSide":"bottom","toNode":"401f2154fedb3b50","toSide":"top"},
+		{"id":"1577601e91df2100","fromNode":"401f2154fedb3b50","fromSide":"bottom","toNode":"5d2bec8db51b6729","toSide":"top"},
+		{"id":"d43c6e09050a521b","fromNode":"5d2bec8db51b6729","fromSide":"bottom","toNode":"c9cf91d0187697e6","toSide":"top"},
+		{"id":"a3904618304256ae","fromNode":"5d2bec8db51b6729","fromSide":"bottom","toNode":"a08e53af5574d4ff","toSide":"top"},
+		{"id":"aa4f0fd5ac77568b","fromNode":"2cb568819bc293f0","fromSide":"bottom","toNode":"cc13bdf1f9705a7c","toSide":"top"},
+		{"id":"f13fe6fc519a1a3c","fromNode":"cc13bdf1f9705a7c","fromSide":"bottom","toNode":"60a117d79d88b2d2","toSide":"top"},
+		{"id":"e75de078bdd7abb3","fromNode":"c9cf91d0187697e6","fromSide":"bottom","toNode":"b0b4fdbc82e9d871","toSide":"top","color":"2"},
+		{"id":"65b7d9f69a2bc1e3","fromNode":"b0b4fdbc82e9d871","fromSide":"bottom","toNode":"6cb4e56466c18e13","toSide":"top","color":"2"},
+		{"id":"d37d1498d72f63da","fromNode":"c9cf91d0187697e6","fromSide":"bottom","toNode":"6cb4e56466c18e13","toSide":"top"},
+		{"id":"a1e405282376b5f0","fromNode":"a08e53af5574d4ff","fromSide":"bottom","toNode":"6cb4e56466c18e13","toSide":"top"},
+		{"id":"5015cf66ff47a364","fromNode":"6cb4e56466c18e13","fromSide":"bottom","toNode":"2cb568819bc293f0","toSide":"top"},
+		{"id":"03362f69a019f843","fromNode":"6cb4e56466c18e13","fromSide":"bottom","toNode":"cc13bdf1f9705a7c","toSide":"top"}
+	]
+}

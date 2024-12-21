@@ -1,0 +1,1 @@
+A inter/pertrochanteric fracture without a distal extension or without another fracture distally

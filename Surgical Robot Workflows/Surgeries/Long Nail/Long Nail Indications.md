@@ -1,0 +1,1 @@
+A long nail is REQUIRED for fractures with subtrochanteric extension. 

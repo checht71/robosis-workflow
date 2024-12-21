@@ -1,0 +1,1 @@
+Static or dynamic distal locking is at surgeon’s preference.
